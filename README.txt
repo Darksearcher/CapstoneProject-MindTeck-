@@ -76,3 +76,9 @@ SET IDENTITY_INSERT [WebDatabase].[WebUsers] OFF
  a) Make sure to be logged out!!
 
 This worked perfectly on my machine running Windows 7, the latest version of Google Chrome, and visual studio 2013.  If there are any issues with this project please do not hesitate and reach me at vic9050@gmail.com.
+
+Bugs:
+
+You must log out to  make sure the application is aware of your current login status.
+
+Forms for order histories aren't up.
