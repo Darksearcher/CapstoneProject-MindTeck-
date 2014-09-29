@@ -79,6 +79,16 @@ This worked perfectly on my machine running Windows 7, the latest version of Goo
 
 Bugs:
 
-You must log out to  make sure the application is aware of your current login status.
+On application restart, you must log out to  make sure the application is aware of your current login status.
 
-Forms for order histories aren't up.
+Forms for order histories  -> orders aren't up.
+
+Sources cited:
+
+Most images of from amazon the rest are listed below:
+
+http://gadgets-ntech.com/wp-content/uploads/2013/12/ps5.jpg
+
+http://www.mydiscountcoupon.com/blog/wp-content/uploads/2014/08/Tide-logo.jpg
+
+The rest are all found in the database for products
