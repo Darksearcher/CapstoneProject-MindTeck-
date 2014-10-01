@@ -45,7 +45,7 @@ SET IDENTITY_INSERT [WebDatabase].[OrderHistories] OFF
 Query for Products
 
 SET IDENTITY_INSERT [WebDatabase].[Products] ON
-INSERT INTO [WebDatabase].[Products] ([Product_ID], [Name], [Description], [Stock], [Price], [Company], [PictureURL]) VALUES (3, N'Tide', N'Tides reinventing the way you do laundry! New Tide Pods is a multi-dimensional laundry detergent that cleans, fights stains, and brightens in one. No more pouring. No more lugging. No more spills. Just toss one in—it''s that easy!', 13, 19.99, N'Tide', N'http://www.mydiscountcoupon.com/blog/wp-content/uploads/2014/08/Tide-logo.jpg')
+INSERT INTO [WebDatabase].[Products] ([Product_ID], [Name], [Description], [Stock], [Price], [Company], [PictureURL]) VALUES (3, N'Tide', N'Tides reinventing the way you do laundry! New Tide Pods is a multi-dimensional laundry detergent that cleans, fights stains, and brightens in one. No more pouring. No more lugging. No more spills. Just toss one inâ€”it''s that easy!', 13, 19.99, N'Tide', N'http://www.mydiscountcoupon.com/blog/wp-content/uploads/2014/08/Tide-logo.jpg')
 INSERT INTO [WebDatabase].[Products] ([Product_ID], [Name], [Description], [Stock], [Price], [Company], [PictureURL]) VALUES (4, N'Mass Effect 3', N'Battle as Commander Shepard on many worlds across the galaxy as you unite the ultimate force to take back the Earth before it''s too late', 43, 39.99, N'Bioware', N'http://ecx.images-amazon.com/images/I/71%2BGnpj0OML._SL1007_.jpg')
 INSERT INTO [WebDatabase].[Products] ([Product_ID], [Name], [Description], [Stock], [Price], [Company], [PictureURL]) VALUES (5, N'LG Nexus 5', N'At only 4.59 oz and 8.59 mm thin, it''s the most powerful Nexus phone yet. Speed and power to spare. With 4G/LTE and ultra-fast Wi-Fi, Nexus 5 keeps you connected at blazing speeds. Add in the cutting-edge 2.26GHz Qualcomm SnapdragonTM 800 processor and you''ll race through games, zip around the web and switch between apps at the flick of a finger. Stunning 5 display. More room to do what you do, and better colors too.', 10, 599.99, N'Google', N'http://ecx.images-amazon.com/images/I/41dy1h6PB2L.jpg')
 INSERT INTO [WebDatabase].[Products] ([Product_ID], [Name], [Description], [Stock], [Price], [Company], [PictureURL]) VALUES (6, N'GTX 980', N'The new EVGA GeForce GTX 980 is powered by the next-generation NVIDIA Maxwell architecture, giving you incredible performance, unmatched power efficiency, and cutting-edge features.', 3, 689, N'EVGA', N'http://ecx.images-amazon.com/images/I/71Tagdynd9L._SL1500_.jpg')
@@ -85,7 +85,7 @@ Forms for order histories  -> orders aren't up.
 
 Sources cited:
 
-Most images of from amazon the rest are listed below:
+Most images are from amazon the rest are listed below:
 
 http://gadgets-ntech.com/wp-content/uploads/2013/12/ps5.jpg
 
